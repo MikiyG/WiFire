@@ -2,11 +2,11 @@ WiFire - Network Control Tool
 
 WiFire is an educational tool designed for network analysis and administration. It enables users to scan a network for connected devices, retrieve their IP and MAC addresses, and perform ARP spoofing for testing and security auditing purposes. The tool features a modern graphical user interface (GUI) built with Tkinter and leverages Scapy for packet manipulation.
 
-
-
-
-
     ⚠️ Disclaimer: This tool is intended for ethical and educational use only. Unauthorized use on networks you do not own or have explicit permission to test is illegal and unethical.
+
+
+    ![image alt](https://github.com/MikiyG/WiFire/blob/master/WifirePic.png?raw=true)
+
 
 Features
 
