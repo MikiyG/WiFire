@@ -31,7 +31,7 @@ Installation
     Clone the Repository:
     bash
 
-git clone https://github.com/yourusername/wifire.git
+git clone https://github.com/MikiyG/wifire.git
 cd wifire
 Install Dependencies:
 bash
